@@ -51,6 +51,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -60,8 +61,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -82,6 +83,8 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
@@ -119,7 +122,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
-      internalID: 0
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -140,7 +143,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
-      internalID: 0
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -161,7 +164,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
-      internalID: 0
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -182,7 +185,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
-      internalID: 0
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -203,7 +206,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
-      internalID: 0
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -224,7 +227,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
-      internalID: 0
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -245,7 +248,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
-      internalID: 0
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -266,7 +269,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
-      internalID: 0
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -287,7 +290,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
-      internalID: 0
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -302,6 +305,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Border_8: 21300016
+      Border_7: 21300014
+      Border_3: 21300006
+      Border_2: 21300004
+      Border_4: 21300008
+      Border_1: 21300002
+      Border_0: 21300000
+      Border_5: 21300010
+      Border_6: 21300012
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

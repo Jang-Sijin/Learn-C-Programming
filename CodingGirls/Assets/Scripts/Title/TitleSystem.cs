@@ -4,6 +4,7 @@ using System.Collections;
 
 public class TitleSystem : MonoBehaviour
 {
+    // 싱글톤
     public static TitleSystem _Instance { get; private set; }
     public TitleUIManager _UIManager { get; private set; }
     private const float _fadeDuration = 1.5f;
